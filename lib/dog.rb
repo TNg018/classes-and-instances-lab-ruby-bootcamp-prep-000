@@ -1,3 +1,3 @@
 class Dog
-  Dogs = [Lassie, Fido, Snoopy]
+  Dog = [Lassie, Fido, Snoopy]
 end
